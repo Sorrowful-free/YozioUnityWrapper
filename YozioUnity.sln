@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C2E8776E-BE49-83D2-BD2F-09E3689ABA1C}") = "YozioUnity", "Assembly-CSharp-firstpass.csproj", "{BE98F4DF-060D-5CC3-AF43-4D0719BC5C01}"
+EndProject
+Project("{C2E8776E-BE49-83D2-BD2F-09E3689ABA1C}") = "YozioUnity", "Assembly-CSharp.csproj", "{4D1BB321-2F35-295D-8AF5-7317CB9B9AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE98F4DF-060D-5CC3-AF43-4D0719BC5C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE98F4DF-060D-5CC3-AF43-4D0719BC5C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE98F4DF-060D-5CC3-AF43-4D0719BC5C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE98F4DF-060D-5CC3-AF43-4D0719BC5C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1BB321-2F35-295D-8AF5-7317CB9B9AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1BB321-2F35-295D-8AF5-7317CB9B9AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1BB321-2F35-295D-8AF5-7317CB9B9AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1BB321-2F35-295D-8AF5-7317CB9B9AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
